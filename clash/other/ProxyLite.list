@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
 
+# 动漫bt站
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,acg.rip
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
